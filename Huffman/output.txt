@@ -1,0 +1,1 @@
+Expanded message: This is the original message from input.txt that will be printed to output.txt
